@@ -1,0 +1,21 @@
+<div>
+    <p>
+        <b>
+            <a href="<?php echo get_permalink(); ?>"> <?php echo get_the_title(); ?> </a>
+        </b>
+    </p>
+    <p>
+        <?php echo get_the_content(); ?>
+    </p>
+    <p>
+        <?php
+        if ( $comment ) {
+            echo _e( 'Comment: ', 'post-type-newspages' ) . '  ' . $comment . '<br />';
+        }
+        if ( $alternative_title ) {
+            echo _e( 'Alternative title: ', 'post-type-newspages' ) . '  ' . $alternative_title . '<br />';
+        }
+        ?>
+    </p>
+    <hr />
+</div>

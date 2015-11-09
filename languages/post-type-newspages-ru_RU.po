@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: newspages v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-09 11:30+0200\n"
+"PO-Revision-Date: 2015-11-09 11:37+0200\n"
+"Last-Translator: root <alex_dyak@mail.ru>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"translate\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: newspages.php\n"
+"X-Poedit-SearchPath-2: view-metaboxes.phtml\n"
+"X-Poedit-SearchPath-3: view-shortcode.phtml\n"
+"X-Poedit-SearchPath-4: view-widget.phtml\n"
+"X-Poedit-SearchPath-5: widget-newspages.php\n"
+
+#: newspages.php:29
+msgid "NewsPages"
+msgstr "Страницы новостей"
+
+#: newspages.php:30
+msgid "NewsPage"
+msgstr "Страница новостей "
+
+#: newspages.php:49
+msgid "Categories"
+msgstr "Категории"
+
+#: newspages.php:63
+msgid "NewsPage Information"
+msgstr "Дополнительная информация о странице"
+
+#: widget-newspages.php:4
+msgid "Last NewsPages"
+msgstr "Последние страницы новостей"
+
+#: widget-newspages.php:6
+msgid "Show Last NewsPages"
+msgstr "Показать последние страницы новостей"
+
+#: view-metaboxes.phtml:1
+msgid "Admin comment:"
+msgstr "Коментарий администратора: "
+
+#: view-metaboxes.phtml:5
+msgid "Alternative title:"
+msgstr "Альтернативное название:   "
+
+#: view-shortcode.phtml:13
+msgid "Comment: "
+msgstr "Комментарий:  "
+
+#: view-shortcode.phtml:16
+msgid "Alternative title: "
+msgstr "Альтернативное название:"
+
+#: view-widget.phtml:2
+msgid "Title:"
+msgstr "Название:"
+
+#: view-widget.phtml:8
+msgid "Number of shown NewsPages:"
+msgstr "Количество отображаемых новостей:"
