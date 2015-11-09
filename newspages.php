@@ -127,8 +127,6 @@ function newspages_show( $atts ) {
 
     $posts = new WP_Query( $args_post );
 
-    $html = '<div>';
-
     if ( $posts->have_posts() ) {
         while ($posts->have_posts()) {
             $posts->the_post();
